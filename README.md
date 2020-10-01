@@ -1,5 +1,5 @@
 # MyFirstRepo
-My 2 weeks Progress 
+My 2 weeks progress 
 
 In these 2 weeks I have learnt basics of git means how to use it.
 I have worked on my programming language i.e, JAVA.
